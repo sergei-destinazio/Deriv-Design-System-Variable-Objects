@@ -1,4 +1,4 @@
-export const academyVars = [
+export default [
   // Champion
   {
     property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
