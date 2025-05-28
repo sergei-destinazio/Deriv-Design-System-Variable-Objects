@@ -190,169 +190,169 @@ export default [
 
     // Coral Colors
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ffe6e6',
         variable: '@var_variable-65f2a670-21a4-15e5-4032-312d3eb800ed',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-100)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ffbfc2',
         variable: '@var_variable-50240c34-bd80-9ef7-2ce6-dcbaf57683f8',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-200)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ff9ba3',
         variable: '@var_variable-751152db-caab-6237-95c7-ab3aef33bf3c',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-300)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ff7e88',
         variable: '@var_variable-3aed9e6b-4774-d504-23d2-713f3ee01f19',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-400)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ff6671',
         variable: '@var_variable-1ae92d29-9c34-b1ac-7de3-f6587cea3959',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-500)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ff535e',
         variable: '@var_variable-faf581ad-fd60-ec1d-081d-d9601ffdc3c6',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-600)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ff444f',
         variable: '@var_variable-88cb6431-605d-1b7f-6aa2-032034239d46',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#e12e3a',
         variable: '@var_variable-830b678e-2fab-b5e0-ed92-b7f80dbcd162',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-800)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#c41c28',
         variable: '@var_variable-4a53f040-5730-6ac8-3b62-0867aa92e977',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-900)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#a60e19',
         variable: '@var_variable-b7d13709-0bb8-f832-6624-30cc512b4eae',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-1000)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#88030d',
         variable: '@var_variable-2c025441-6a70-207f-4932-e3de23eab2b7',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-1100)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#6a0004',
         variable: '@var_variable-e9aff044-76d5-26d0-e117-6858748b5b2e',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-1200)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#4d0000',
         variable: '@var_variable-1f4970be-01dd-5513-9100-a3c962ce236f',
         name: 'var(--design-system-enterprise-copy---color--solid--coral--coral-1300)'
     },
 
     // Slate
+    // {
+    //     property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+    //     value: 'white',
+    //     variable: '@var_variable-e15d3603-7891-6ef6-45fc-fba6d9000db3',
+    //     name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-50)'
+    // },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
-        value: 'white',
-        variable: '@var_variable-e15d3603-7891-6ef6-45fc-fba6d9000db3',
-        name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-50)'
-    },
-    {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#f6f7f8',
         variable: '@var_variable-e03539cf-1eea-a9fd-ca4d-5a34c1013f8d',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-75)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ebecef',
         variable: '@var_variable-920b9e6c-0f43-955e-6939-91b90062180c',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-100)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#ced0d6',
         variable: '@var_variable-ce7cbbb5-10b1-ff33-bb5c-c04e1b0aeab8',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-200)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#b1b4bc',
         variable: '@var_variable-7fd97d27-05a0-7060-7b15-afc0fe240eb6',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-300)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#9498a2',
         variable: '@var_variable-62971f14-7bcf-84ff-8098-692d8e7ae310',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-400)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#787d88',
         variable: '@var_variable-2460d88d-1846-108b-8c2e-1a7288cfe2f1',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-500)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#5c616d',
         variable: '@var_variable-6759a259-6b3a-1a40-1661-e24bc28d9995',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-600)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#414652',
         variable: '@var_variable-230ce142-f508-596d-dfb0-b4e8ac119db2',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#383d4a',
         variable: '@var_variable-302d49d0-b8e5-c74d-41b9-fb3f6c67efdc',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-800)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#303541',
         variable: '@var_variable-bc148a59-32c5-9cc4-7d61-f3ce25da5e84',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-900)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#282c38',
         variable: '@var_variable-904d0ebf-9212-1410-e329-1d1fa02558a2',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-1000)'
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['color', 'text-stroke-color'],
         value: '#20242f',
         variable: '@var_variable-0bfc4ba6-7910-2fb1-b063-94753fdd041b',
         name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-1100)'
     },
-    {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
-        value: '#181c25',
-        variable: '@var_variable-565eeb12-bfac-d0ff-544b-de287f98f143',
-        name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-1200)'
-    },
+    // {
+    //     property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+    //     value: '#181c25',
+    //     variable: '@var_variable-565eeb12-bfac-d0ff-544b-de287f98f143',
+    //     name: 'var(--design-system-enterprise-copy---color--solid--slate--slate-1200)'
+    // },
     {
         property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
         value: '#11141b',
@@ -393,7 +393,7 @@ export default [
         variable: "@var_variable-9b4ebf4b-1c4b-0bae-f43f-c198ecb2cb2e"
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color'],
         name: "var(--design-system-enterprise-copy---color--solid--green--green-500)",
         value: "#4dbc6b",
         variable: "@var_variable-7a3363be-58e5-1892-7816-deec1217dcfe"
@@ -474,7 +474,7 @@ export default [
         variable: "@var_variable-ebf01632-2c08-b7f8-739a-bbc902529b99"
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color'],
         name: "var(--design-system-enterprise-copy---color--solid--red--red-500)",
         value: "#ff4d4d",
         variable: "@var_variable-74030726-f209-f869-3d38-d0a9443ef9dc"
@@ -555,7 +555,7 @@ export default [
         variable: "@var_variable-0ab0f038-220a-3d0e-f68e-e1d5ea5c48d5"
     },
     {
-        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color', 'color', 'text-stroke-color'],
+        property: ['background-color', 'border-top-color', 'border-bottom-color', 'border-left-color', 'border-right-color'],
         name: "var(--design-system-enterprise-copy---color--solid--yellow--yellow-500)",
         value: "#ffbe4d",
         variable: "@var_variable-f9512075-4f91-ac4a-0451-960ffcaa60d0"
@@ -1214,9 +1214,7 @@ export default [
             'border-top-color',
             'border-bottom-color',
             'border-left-color',
-            'border-right-color',
-            'color',
-            'text-stroke-color'
+            'border-right-color'
         ],
         name: 'var(--design-system-enterprise-copy---color--opacity--slate--slate-300-24)',
         value: 'rgba(24, 28, 37, 0.24)',
@@ -1228,9 +1226,7 @@ export default [
             'border-top-color',
             'border-bottom-color',
             'border-left-color',
-            'border-right-color',
-            'color',
-            'text-stroke-color'
+            'border-right-color'
         ],
         name: 'var(--design-system-enterprise-copy---color--opacity--slate--slate-400-48)',
         value: 'rgba(24, 28, 37, 0.48)',
